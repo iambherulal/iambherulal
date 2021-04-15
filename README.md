@@ -5,7 +5,7 @@
 
 ## I'm a Full Stack Developer, WordPress Developer!
 
-- 🌱 I’m currently learning everything 🤣
+- 🌱 I’m currently learning everything
 - 🥅 2021 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: Music is on of the my Best Friend
 
