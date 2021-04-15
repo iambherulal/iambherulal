@@ -6,9 +6,7 @@
 ## I'm a Full Stack Developer, WordPress Developer!
 
 - 🌱 I’m currently learning everything 🤣
-
-- 👯 I’m looking to collaborate with people like me lol 😂 
-- 🥅 2020 Goals: Contribute more to Open Source projects
+- 🥅 2021 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: Music is on of the my Best Friend
 
   
@@ -43,13 +41,9 @@
 
 <img align="left" alt="PHP" width="26px" src="https://raw.githubusercontent.com/github/explore/ccc16358ac4530c6a69b1b80c7223cd2744dea83/topics/php/php.png" />
 
-<img align="left" alt="Laravel" width="26px" src="https://raw.githubusercontent.com/github/explore/56a826d05cf762b2b50ecbe7d492a839b04f3fbf/topics/laravel/laravel.png" />
-
 <img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
 
 <img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
-
-<img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/fbceb94436312b6dacde68d122a5b9c7d11f9524/topics/aws/aws.png" />
 
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 <br />
