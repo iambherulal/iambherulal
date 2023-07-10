@@ -1,5 +1,5 @@
 <p align="justify"> 
-I'm Bheru Lal Gameti, a young and dynamic 21-year-old Full Stack Developer and WordPress Developer. With a strong passion for technology and a thirst for knowledge
+I'm Bheru Lal Gameti, a young and dynamic 24-year-old Full Stack Developer and WordPress Developer. With a strong passion for technology and a thirst for knowledge
 </p>
   
 
