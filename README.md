@@ -1,7 +1,5 @@
 <p align="justify"> 
-Hello 🖐️ friends, welcome to my github
-I am satisfied and I tried most fields of programming and finally I was able to find my interest, and that was web design and development and security . It has been almost 4+ years. I am coding and now I am a computer engineering student
-&nbsp;
+I'm Bheru Lal Gameti, a young and dynamic 21-year-old Full Stack Developer and WordPress Developer. With a strong passion for technology and a thirst for knowledge
 </p>
   
 
